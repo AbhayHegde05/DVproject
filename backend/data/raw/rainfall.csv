@@ -1,13 +1,361 @@
 district,year,month,rainfall_mm
-Mysore,2020,1,12
-Mysore,2020,2,8
-Mysore,2020,3,20
-Mysore,2021,1,15
-Mysore,2021,2,10
-Mysore,2021,3,25
-Bangalore,2020,1,18
-Bangalore,2020,2,12
-Bangalore,2020,3,30
-Bangalore,2021,1,20
-Bangalore,2021,2,15
-Bangalore,2021,3,28
+Bagalkot,2022,1,5
+Bagalkot,2022,2,3
+Bagalkot,2022,3,10
+Bagalkot,2022,4,25
+Bagalkot,2022,5,50
+Bagalkot,2022,6,100
+Bagalkot,2022,7,120
+Bagalkot,2022,8,110
+Bagalkot,2022,9,150
+Bagalkot,2022,10,80
+Bagalkot,2022,11,20
+Bagalkot,2022,12,10
+Ballari,2022,1,4
+Ballari,2022,2,2
+Ballari,2022,3,8
+Ballari,2022,4,20
+Ballari,2022,5,45
+Ballari,2022,6,90
+Ballari,2022,7,110
+Ballari,2022,8,100
+Ballari,2022,9,140
+Ballari,2022,10,70
+Ballari,2022,11,15
+Ballari,2022,12,8
+Belagavi,2022,1,3
+Belagavi,2022,2,2
+Belagavi,2022,3,12
+Belagavi,2022,4,30
+Belagavi,2022,5,60
+Belagavi,2022,6,150
+Belagavi,2022,7,200
+Belagavi,2022,8,180
+Belagavi,2022,9,160
+Belagavi,2022,10,90
+Belagavi,2022,11,25
+Belagavi,2022,12,12
+Bengaluru Rural,2022,1,8
+Bengaluru Rural,2022,2,5
+Bengaluru Rural,2022,3,15
+Bengaluru Rural,2022,4,40
+Bengaluru Rural,2022,5,80
+Bengaluru Rural,2022,6,120
+Bengaluru Rural,2022,7,140
+Bengaluru Rural,2022,8,130
+Bengaluru Rural,2022,9,180
+Bengaluru Rural,2022,10,100
+Bengaluru Rural,2022,11,30
+Bengaluru Rural,2022,12,15
+Bengaluru Urban,2022,1,10
+Bengaluru Urban,2022,2,8
+Bengaluru Urban,2022,3,20
+Bengaluru Urban,2022,4,50
+Bengaluru Urban,2022,5,100
+Bengaluru Urban,2022,6,150
+Bengaluru Urban,2022,7,160
+Bengaluru Urban,2022,8,150
+Bengaluru Urban,2022,9,200
+Bengaluru Urban,2022,10,120
+Bengaluru Urban,2022,11,40
+Bengaluru Urban,2022,12,20
+Bidar,2022,1,6
+Bidar,2022,2,4
+Bidar,2022,3,12
+Bidar,2022,4,28
+Bidar,2022,5,55
+Bidar,2022,6,130
+Bidar,2022,7,150
+Bidar,2022,8,140
+Bidar,2022,9,170
+Bidar,2022,10,85
+Bidar,2022,11,22
+Bidar,2022,12,11
+Chamarajanagar,2022,1,12
+Chamarajanagar,2022,2,10
+Chamarajanagar,2022,3,25
+Chamarajanagar,2022,4,60
+Chamarajanagar,2022,5,120
+Chamarajanagar,2022,6,100
+Chamarajanagar,2022,7,110
+Chamarajanagar,2022,8,100
+Chamarajanagar,2022,9,150
+Chamarajanagar,2022,10,130
+Chamarajanagar,2022,11,50
+Chamarajanagar,2022,12,25
+Chikkaballapur,2022,1,9
+Chikkaballapur,2022,2,6
+Chikkaballapur,2022,3,18
+Chikkaballapur,2022,4,45
+Chikkaballapur,2022,5,90
+Chikkaballapur,2022,6,130
+Chikkaballapur,2022,7,150
+Chikkaballapur,2022,8,140
+Chikkaballapur,2022,9,190
+Chikkaballapur,2022,10,110
+Chikkaballapur,2022,11,35
+Chikkaballapur,2022,12,18
+Chikkamagaluru,2022,1,5
+Chikkamagaluru,2022,2,4
+Chikkamagaluru,2022,3,15
+Chikkamagaluru,2022,4,50
+Chikkamagaluru,2022,5,150
+Chikkamagaluru,2022,6,400
+Chikkamagaluru,2022,7,600
+Chikkamagaluru,2022,8,500
+Chikkamagaluru,2022,9,250
+Chikkamagaluru,2022,10,150
+Chikkamagaluru,2022,11,40
+Chikkamagaluru,2022,12,15
+Chitradurga,2022,1,7
+Chitradurga,2022,2,5
+Chitradurga,2022,3,10
+Chitradurga,2022,4,30
+Chitradurga,2022,5,60
+Chitradurga,2022,6,100
+Chitradurga,2022,7,120
+Chitradurga,2022,8,110
+Chitradurga,2022,9,160
+Chitradurga,2022,10,90
+Chitradurga,2022,11,25
+Chitradurga,2022,12,12
+Dakshina Kannada,2022,1,2
+Dakshina Kannada,2022,2,1
+Dakshina Kannada,2022,3,5
+Dakshina Kannada,2022,4,40
+Dakshina Kannada,2022,5,200
+Dakshina Kannada,2022,6,900
+Dakshina Kannada,2022,7,1200
+Dakshina Kannada,2022,8,800
+Dakshina Kannada,2022,9,400
+Dakshina Kannada,2022,10,250
+Dakshina Kannada,2022,11,80
+Dakshina Kannada,2022,12,10
+Davanagere,2022,1,6
+Davanagere,2022,2,4
+Davanagere,2022,3,12
+Davanagere,2022,4,35
+Davanagere,2022,5,70
+Davanagere,2022,6,110
+Davanagere,2022,7,130
+Davanagere,2022,8,120
+Davanagere,2022,9,170
+Davanagere,2022,10,95
+Davanagere,2022,11,28
+Davanagere,2022,12,14
+Dharwad,2022,1,4
+Dharwad,2022,2,3
+Dharwad,2022,3,10
+Dharwad,2022,4,30
+Dharwad,2022,5,60
+Dharwad,2022,6,140
+Dharwad,2022,7,180
+Dharwad,2022,8,160
+Dharwad,2022,9,150
+Dharwad,2022,10,80
+Dharwad,2022,11,20
+Dharwad,2022,12,10
+Gadag,2022,1,5
+Gadag,2022,2,4
+Gadag,2022,3,8
+Gadag,2022,4,25
+Gadag,2022,5,50
+Gadag,2022,6,110
+Gadag,2022,7,130
+Gadag,2022,8,120
+Gadag,2022,9,160
+Gadag,2022,10,85
+Gadag,2022,11,22
+Gadag,2022,12,11
+Hassan,2022,1,8
+Hassan,2022,2,6
+Hassan,2022,3,18
+Hassan,2022,4,50
+Hassan,2022,5,130
+Hassan,2022,6,200
+Hassan,2022,7,250
+Hassan,2022,8,220
+Hassan,2022,9,180
+Hassan,2022,10,140
+Hassan,2022,11,40
+Hassan,2022,12,20
+Haveri,2022,1,5
+Haveri,2022,2,3
+Haveri,2022,3,10
+Haveri,2022,4,30
+Haveri,2022,5,65
+Haveri,2022,6,130
+Haveri,2022,7,160
+Haveri,2022,8,140
+Haveri,2022,9,150
+Haveri,2022,10,80
+Haveri,2022,11,25
+Haveri,2022,12,12
+Kalaburagi,2022,1,5
+Kalaburagi,2022,2,3
+Kalaburagi,2022,3,9
+Kalaburagi,2022,4,22
+Kalaburagi,2022,5,50
+Kalaburagi,2022,6,120
+Kalaburagi,2022,7,140
+Kalaburagi,2022,8,130
+Kalaburagi,2022,9,160
+Kalaburagi,2022,10,75
+Kalaburagi,2022,11,18
+Kalaburagi,2022,12,9
+Kodagu,2022,1,4
+Kodagu,2022,2,3
+Kodagu,2022,3,12
+Kodagu,2022,4,60
+Kodagu,2022,5,200
+Kodagu,2022,6,600
+Kodagu,2022,7,900
+Kodagu,2022,8,700
+Kodagu,2022,9,300
+Kodagu,2022,10,180
+Kodagu,2022,11,50
+Kodagu,2022,12,15
+Kolar,2022,1,10
+Kolar,2022,2,7
+Kolar,2022,3,20
+Kolar,2022,4,50
+Kolar,2022,5,100
+Kolar,2022,6,110
+Kolar,2022,7,130
+Kolar,2022,8,120
+Kolar,2022,9,170
+Kolar,2022,10,110
+Kolar,2022,11,40
+Kolar,2022,12,20
+Koppal,2022,1,4
+Koppal,2022,2,2
+Koppal,2022,3,8
+Koppal,2022,4,20
+Koppal,2022,5,45
+Koppal,2022,6,90
+Koppal,2022,7,110
+Koppal,2022,8,100
+Koppal,2022,9,140
+Koppal,2022,10,70
+Koppal,2022,11,15
+Koppal,2022,12,8
+Mandya,2022,1,11
+Mandya,2022,2,8
+Mandya,2022,3,22
+Mandya,2022,4,55
+Mandya,2022,5,110
+Mandya,2022,6,90
+Mandya,2022,7,100
+Mandya,2022,8,90
+Mandya,2022,9,140
+Mandya,2022,10,120
+Mandya,2022,11,45
+Mandya,2022,12,22
+Mysuru,2022,1,12
+Mysuru,2022,2,9
+Mysuru,2022,3,25
+Mysuru,2022,4,60
+Mysuru,2022,5,120
+Mysuru,2022,6,100
+Mysuru,2022,7,110
+Mysuru,2022,8,100
+Mysuru,2022,9,150
+Mysuru,2022,10,130
+Mysuru,2022,11,50
+Mysuru,2022,12,25
+Raichur,2022,1,4
+Raichur,2022,2,2
+Raichur,2022,3,7
+Raichur,2022,4,18
+Raichur,2022,5,40
+Raichur,2022,6,80
+Raichur,2022,7,100
+Raichur,2022,8,90
+Raichur,2022,9,130
+Raichur,2022,10,65
+Raichur,2022,11,14
+Raichur,2022,12,7
+Ramanagara,2022,1,9
+Ramanagara,2022,2,6
+Ramanagara,2022,3,18
+Ramanagara,2022,4,45
+Ramanagara,2022,5,90
+Ramanagara,2022,6,120
+Ramanagara,2022,7,140
+Ramanagara,2022,8,130
+Ramanagara,2022,9,180
+Ramanagara,2022,10,100
+Ramanagara,2022,11,35
+Ramanagara,2022,12,18
+Shivamogga,2022,1,3
+Shivamogga,2022,2,2
+Shivamogga,2022,3,10
+Shivamogga,2022,4,40
+Shivamogga,2022,5,120
+Shivamogga,2022,6,350
+Shivamogga,2022,7,500
+Shivamogga,2022,8,400
+Shivamogga,2022,9,200
+Shivamogga,2022,10,120
+Shivamogga,2022,11,30
+Shivamogga,2022,12,10
+Tumakuru,2022,1,8
+Tumakuru,2022,2,6
+Tumakuru,2022,3,15
+Tumakuru,2022,4,40
+Tumakuru,2022,5,80
+Tumakuru,2022,6,110
+Tumakuru,2022,7,130
+Tumakuru,2022,8,120
+Tumakuru,2022,9,170
+Tumakuru,2022,10,100
+Tumakuru,2022,11,30
+Tumakuru,2022,12,15
+Udupi,2022,1,1
+Udupi,2022,2,1
+Udupi,2022,3,4
+Udupi,2022,4,35
+Udupi,2022,5,250
+Udupi,2022,6,1000
+Udupi,2022,7,1300
+Udupi,2022,8,900
+Udupi,2022,9,450
+Udupi,2022,10,280
+Udupi,2022,11,90
+Udupi,2022,12,12
+Uttara Kannada,2022,1,2
+Uttara Kannada,2022,2,1
+Uttara Kannada,2022,3,8
+Uttara Kannada,2022,4,40
+Uttara Kannada,2022,5,180
+Uttara Kannada,2022,6,700
+Uttara Kannada,2022,7,1000
+Uttara Kannada,2022,8,800
+Uttara Kannada,2022,9,350
+Uttara Kannada,2022,10,200
+Uttara Kannada,2022,11,60
+Uttara Kannada,2022,12,10
+Vijayapura,2022,1,4
+Vijayapura,2022,2,2
+Vijayapura,2022,3,8
+Vijayapura,2022,4,20
+Vijayapura,2022,5,45
+Vijayapura,2022,6,100
+Vijayapura,2022,7,120
+Vijayapura,2022,8,110
+Vijayapura,2022,9,150
+Vijayapura,2022,10,75
+Vijayapura,2022,11,18
+Vijayapura,2022,12,9
+Yadgir,2022,1,4
+Yadgir,2022,2,2
+Yadgir,2022,3,7
+Yadgir,2022,4,18
+Yadgir,2022,5,40
+Yadgir,2022,6,80
+Yadgir,2022,7,100
+Yadgir,2022,8,90
+Yadgir,2022,9,130
+Yadgir,2022,10,65
+Yadgir,2022,11,14
+Yadgir,2022,12,7

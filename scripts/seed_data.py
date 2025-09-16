@@ -28,6 +28,14 @@ def etl():
     con.execute("CREATE OR REPLACE TABLE karnataka.rainfall AS SELECT * FROM read_parquet(?)", [str(PROCESSED / "rainfall.parquet")])
     con.execute("CREATE OR REPLACE TABLE karnataka.air_quality AS SELECT * FROM read_parquet(?)", [str(PROCESSED / "air_quality.parquet")])
     con.execute("CREATE OR REPLACE TABLE karnataka.climate AS SELECT * FROM read_parquet(?)", [str(PROCESSED / "climate.parquet")])
+    
+    # Create a view for yield by year, which is used in insights
+    con.execute("""
+    CREATE OR REPLACE VIEW karnataka.yield_by_year AS
+    SELECT district, crop, year, yield_t_ha
+    FROM karnataka.crops
+    """)
+    
     con.close()
     print("ETL complete.")
 

@@ -33,3 +33,13 @@ def yield_trend(district: str, crop: str | None = None):
     GROUP BY year ORDER BY year
     """
     return query(sql, (district,)).to_dict(orient="records")
+
+@router.get("/rainfall")
+def rainfall(district: str):
+    sql = "SELECT year, month, rainfall_mm FROM karnataka.rainfall WHERE district = ? ORDER BY year, month"
+    return query(sql, (district,)).to_dict(orient="records")
+
+@router.get("/air_quality")
+def air_quality(district: str):
+    sql = "SELECT date, pm25, pm10, aqi FROM karnataka.air_quality WHERE district = ? ORDER BY date"
+    return query(sql, (district,)).to_dict(orient="records")

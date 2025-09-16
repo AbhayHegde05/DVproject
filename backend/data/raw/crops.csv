@@ -1,9 +1,61 @@
 district,year,crop,area_ha,production_tonnes,yield_t_ha
-Mysore,2020,Rice,12000,36000,3.0
-Mysore,2021,Rice,12500,40000,3.2
-Mysore,2020,Maize,8000,24000,3.0
-Mysore,2021,Maize,8500,25500,3.0
-Bangalore,2020,Rice,6000,18000,3.0
-Bangalore,2021,Rice,6500,21000,3.2
-Bangalore,2020,Maize,4000,12000,3.0
-Bangalore,2021,Maize,4200,12600,3.0
+Bagalkot,2022,Sugarcane,80000,6400000,80.0
+Bagalkot,2022,Maize,60000,180000,3.0
+Ballari,2022,Paddy,150000,450000,3.0
+Ballari,2022,Cotton,120000,240000,2.0
+Belagavi,2022,Sugarcane,200000,16000000,80.0
+Belagavi,2022,Paddy,90000,270000,3.0
+Bengaluru Rural,2022,Ragi,50000,75000,1.5
+Bengaluru Rural,2022,Maize,30000,90000,3.0
+Bengaluru Urban,2022,Ragi,10000,15000,1.5
+Bengaluru Urban,2022,Vegetables,20000,400000,20.0
+Bidar,2022,Soybean,100000,150000,1.5
+Bidar,2022,Tur,80000,64000,0.8
+Chamarajanagar,2022,Cotton,60000,120000,2.0
+Chamarajanagar,2022,Tur,40000,32000,0.8
+Chikkaballapur,2022,Ragi,70000,105000,1.5
+Chikkaballapur,2022,Maize,40000,120000,3.0
+Chikkamagaluru,2022,Coffee,100000,80000,0.8
+Chikkamagaluru,2022,Paddy,30000,90000,3.0
+Chitradurga,2022,Groundnut,120000,180000,1.5
+Chitradurga,2022,Maize,80000,240000,3.0
+Dakshina Kannada,2022,Arecanut,80000,120000,1.5
+Dakshina Kannada,2022,Paddy,40000,120000,3.0
+Davanagere,2022,Maize,150000,450000,3.0
+Davanagere,2022,Paddy,80000,240000,3.0
+Dharwad,2022,Cotton,100000,200000,2.0
+Dharwad,2022,Soybean,70000,105000,1.5
+Gadag,2022,Groundnut,90000,135000,1.5
+Gadag,2022,Maize,60000,180000,3.0
+Hassan,2022,Coffee,70000,56000,0.8
+Hassan,2022,Potato,40000,800000,20.0
+Haveri,2022,Maize,120000,360000,3.0
+Haveri,2022,Cotton,80000,160000,2.0
+Kalaburagi,2022,Tur,200000,160000,0.8
+Kalaburagi,2022,Jowar,150000,120000,0.8
+Kodagu,2022,Coffee,120000,96000,0.8
+Kodagu,2022,Paddy,30000,90000,3.0
+Kolar,2022,Ragi,80000,120000,1.5
+Kolar,2022,Mango,50000,500000,10.0
+Koppal,2022,Paddy,100000,300000,3.0
+Koppal,2022,Groundnut,80000,120000,1.5
+Mandya,2022,Sugarcane,100000,8000000,80.0
+Mandya,2022,Paddy,80000,240000,3.0
+Mysuru,2022,Paddy,90000,270000,3.0
+Mysuru,2022,Sugarcane,60000,4800000,80.0
+Raichur,2022,Paddy,180000,540000,3.0
+Raichur,2022,Cotton,150000,300000,2.0
+Ramanagara,2022,Ragi,60000,90000,1.5
+Ramanagara,2022,Mango,30000,300000,10.0
+Shivamogga,2022,Paddy,120000,360000,3.0
+Shivamogga,2022,Arecanut,80000,120000,1.5
+Tumakuru,2022,Ragi,150000,225000,1.5
+Tumakuru,2022,Groundnut,100000,150000,1.5
+Udupi,2022,Paddy,50000,150000,3.0
+Udupi,2022,Arecanut,30000,45000,1.5
+Uttara Kannada,2022,Paddy,80000,240000,3.0
+Uttara Kannada,2022,Arecanut,50000,75000,1.5
+Vijayapura,2022,Jowar,180000,144000,0.8
+Vijayapura,2022,Maize,100000,300000,3.0
+Yadgir,2022,Tur,120000,96000,0.8
+Yadgir,2022,Paddy,80000,240000,3.0
