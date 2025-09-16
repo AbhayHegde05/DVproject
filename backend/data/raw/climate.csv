@@ -1,0 +1,5 @@
+district,year,avg_temp_c,min_temp_c,max_temp_c,humidity,rainfall_mm
+Mysore,2020,26.5,18.0,34.0,65,800
+Mysore,2021,27.0,18.5,35.0,63,820
+Bangalore,2020,25.0,17.0,32.0,70,900
+Bangalore,2021,25.5,17.5,33.0,68,880
