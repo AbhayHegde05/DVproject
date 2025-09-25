@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data & Database
+backend/db/*.duckdb
+backend/db/*.db
+backend/data/processed/
+backend/data/geo/
+*.parquet
+
+# Streamlit cache
+frontend/.streamlit/
+.streamlit/
+.streamlit_cache/
